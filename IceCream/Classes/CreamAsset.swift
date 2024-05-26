@@ -30,11 +30,11 @@ public class CreamAsset: Object {
         self.key = key
     }
 
-    public func folder() -> String {
+    public func getFolder() -> String {
         return folder
     }
 
-    public func key() -> String {
+    public func getKey() -> String {
         return key
     }
     
